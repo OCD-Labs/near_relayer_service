@@ -42,7 +42,7 @@ network = "mainnet"
 rpc_url = "https://rpc.mainnet.near.org"
 rpc_api_key = ""
 
-redis_url="redis://host.docker.internal:6379"
+redis_url="redis://red-cibbaht9aq03rjmp9cr0:6379"
 
 # testnet
 # network = "testnet"
