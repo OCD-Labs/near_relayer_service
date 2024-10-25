@@ -48,3 +48,4 @@ redis_url="redis://host.docker.internal:6379"
 # network = "testnet"
 # rpc_url = "https://rpc.testnet.near.org"
 # rpc_api_key = ""
+# 
